@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aimen Birthday Surprise</string>
+
+    <!-- Screen one -->
+    <string name="login_deco">🦋 💗 🦋</string>
+    <string name="login_title">A Little Surprise For You</string>
+    <string name="recipient_name">Aimen Rehman</string>
+    <string name="login_support">Someone special has prepared something magical for you…</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="unlock_button">Unlock My Surprise</string>
+    <string name="login_secret">A little secret is waiting for you 💗</string>
+    <string name="error_empty">Please enter the password first 💗</string>
+    <string name="error_wrong">Not quite right, try again 💗</string>
+
+    <!-- Screen two -->
+    <string name="gift_title">You Unlocked Something Special!</string>
+    <string name="gift_sub">Your surprise is wrapped and ready 🦋✨</string>
+    <string name="gift_description">A pink gift box with a golden ribbon</string>
+    <string name="open_button">Open Your Surprise</string>
+
+    <!-- Final screen: edit the message below -->
+    <string name="final_deco">🦋 🌸 💗 🌸 🦋</string>
+    <string name="final_title">HAPPY BIRTHDAY, AIMEN! 🎂</string>
+    <string name="final_subtitle">Today is all about you ✨</string>
+    <string name="final_message">Happy Birthday, Aimen Rehman! 💗\n\nMay your special day be filled with beautiful surprises, genuine smiles, endless happiness, and little moments that make your heart feel warm.\n\nMay the year ahead bring you peace, success, new adventures, and countless reasons to smile. Never stop shining in your own beautiful way, and may your dreams keep taking you toward wonderful things.\n\nYou deserve a day as lovely and special as you are. Keep smiling, keep shining, and make beautiful memories wherever life takes you.\n\nWishing you the happiest birthday and a year full of magic, laughter, and blessings! 🦋✨\n\nWith love,\nMuneeb ❤️</string>
+    <string name="celebrate_again">Celebrate Again</string>
+    <string name="back_to_start">Back to Start</string>
+</resources>

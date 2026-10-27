@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient">
+
+    <!-- Floating hearts, butterflies and sparkles (decorative) -->
+    <com.muneeb.aimenbirthday.FloatingDecorView
+        android:id="@+id/decorView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:importantForAccessibility="no" />
+
+    <include layout="@layout/screen_login" />
+    <include layout="@layout/screen_gift" />
+    <include layout="@layout/screen_final" />
+
+    <!-- Confetti burst (decorative, ignores touches) -->
+    <com.muneeb.aimenbirthday.ConfettiView
+        android:id="@+id/confettiView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:importantForAccessibility="no" />
+
+</FrameLayout>

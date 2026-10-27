@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="plum">#4A1D6B</color>
+    <color name="pink_deep">#C2185B</color>
+    <color name="text_soft">#5B4A6B</color>
+    <color name="gold">#E6B84F</color>
+    <color name="error_red">#B00020</color>
+    <color name="bg_start">#FFE0F0</color>
+    <color name="bg_middle">#EBDDFF</color>
+    <color name="bg_end">#FFF1D0</color>
+    <color name="button_start">#D63B76</color>
+    <color name="button_end">#8E4FD8</color>
+</resources>
